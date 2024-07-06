@@ -9,14 +9,9 @@
 
 ## Funcionalidades
 
-- Leitura de dados do usuário: número da agência, número da conta e nome do cliente.
-- Geração de um saldo aleatório utilizando a classe `Random`.
-- Formatação do saldo para exibição com duas casas decimais utilizando a classe `DecimalFormat`.
-- Exibição de uma mensagem de boas-vindas com os dados da conta e o saldo disponível.
-
-- ## Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/ContaTerminal.git
-   cd ContaTerminal
+- Leitura de dados do usuário: número da agência, número da conta e nome do cliente.✅
+- Geração de um saldo aleatório utilizando a classe `Random`.✅
+- Formatação do saldo para exibição com duas casas decimais utilizando a classe `DecimalFormat`.✅
+- Exibição de uma mensagem de boas-vindas com os dados da conta e o saldo disponível.✅
 
    
