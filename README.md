@@ -14,8 +14,6 @@
 - Formatação do saldo para exibição com duas casas decimais utilizando a classe `DecimalFormat`.
 - Exibição de uma mensagem de boas-vindas com os dados da conta e o saldo disponível.
 
-- ## Instalação
-
 - ## Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/ContaTerminal.git
